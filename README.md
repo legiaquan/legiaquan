@@ -1,4 +1,14 @@
-### Hi there 👋
+<p align="center"><a href="https://quanle51297.github.io"><img width="80%" alt="Hello, I'm Quan." src="./assets/72939962_1379533512185462_1561881568908148736_n.jpg" /></a></p>
+
+<br />
+
+**About me**
+
+- 💼 Software Engineering [IMT Solution](https://www.imt-soft.com/)
+
+- ❤️ I love writing Javascript, ReactJS, and building fun experiments on type-level
+
+- 🌱 I enjoy solving font-end problems and creating the best user experience of uses. I also spend time learning new technologies and best practices to become a better engineer.
 
 <!--
 **quanle51297/quanle51297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
