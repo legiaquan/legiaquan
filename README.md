@@ -1,4 +1,4 @@
-<p align="center"><a href="https://quanle51297.github.io"><img width="80%" alt="Hello, I'm Quan." src="./assets/72939962_1379533512185462_1561881568908148736_n.jpg" /></a></p>
+<p align="center"><a href="https://quanle51297.github.io"><img width="100%" alt="Hello, I'm Quan." src="./assets/72939962_1379533512185462_1561881568908148736_n.jpg" /></a></p>
 
 <br />
 
