@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quanle51297" alt="quanle51297" /></a> </p>
 -->
 
-- 🔭 I’m currently working on [Got It](https://www.linkedin.com/company/gotit.vn/)
+- 🔭 I’m currently working at [Got It](https://www.linkedin.com/company/gotit.vn/)
 
 - ❤️ I love writing Javascript, ReactJS, and building fun experiments on type-level
 
