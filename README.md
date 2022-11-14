@@ -26,8 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quanle51297&show_icons=true&locale=en" alt="quanle51297" /></p>
 
-
-<a href="https://app.daily.dev/quanle512971"><img src="https://api.daily.dev/devcards/f0af31c5d52c48ab9b11e3c1918c05d7.png?r=mml" width="400" alt="Quan Le's Dev Card"/></a>
 <!--
 **quanle51297/quanle51297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
